@@ -29,16 +29,14 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/a/a/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/abduulrahmankhalid/abduulrahmankhalid/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=a.a&left_color=teal&right_color=blueviolet"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=abduulrahmankhalid.abduulrahmankhalid&left_color=teal&right_color=blueviolet"  />
 </div>
 
 ###
