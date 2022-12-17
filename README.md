@@ -29,9 +29,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/abduulrahmankhalid/abduulrahmankhalid/blob/output/snake.svg" alt="Snake animation" />
-
-###
 
 <br clear="both">
 
