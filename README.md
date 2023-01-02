@@ -25,7 +25,7 @@
 ---
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=abduulrahmankhalid&icon=0&color=6"  />
+  <img src="https://visitcount.itsvg.in/api?id=abduulrahmankhalid&icon=8&color=6"  />
 </div>
 
 
