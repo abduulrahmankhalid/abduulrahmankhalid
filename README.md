@@ -25,6 +25,7 @@
 ---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=abduulrahmankhalid.abduulrahmankhalid&left_color=teal&right_color=blueviolet"  />
+  <img src="https://visitcount.itsvg.in/api?id=abduulrahmankhalid&icon=0&color=6"  />
 </div>
+
 
