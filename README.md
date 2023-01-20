@@ -20,7 +20,7 @@
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abduulrahmankhalid&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abduulrahmankhalid&theme=discord&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=abduulrahmankhalid&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1&column=-1)
 
 ---
 
