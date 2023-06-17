@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">A Final Year Computer Science Student Enthusiast about Machine Learning and Data Science</h3>
+<h3 align="center">An Computer Science Fresh Graduate Enthusiast about Machine Learning and Data Science</h3>
 
 ## 🌐 Connect with me::
 <div align="left">
