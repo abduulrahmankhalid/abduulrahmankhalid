@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">A Computer Science Graduate Enthusiast about Machine Learning and Data Science</h3>
+<h3 align="center">Computer science graduate with a strong passion for data science and machine learning, skilled in transforming data into AI-powered innovative applications and practical solutions.</h3>
 
 ## 🌐 Connect with me::
 <div align="left">
