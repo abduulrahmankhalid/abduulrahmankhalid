@@ -2,7 +2,9 @@
 
 ###
 
-<h3 align="center">Computer science graduate with a strong passion for data science and machine learning, skilled in transforming data into AI-powered innovative applications and practical solutions.</h3>
+<h3 align="center">Computer science graduate with a strong passion for data science and machine learning,
+  
+ Skilled in transforming data into AI-powered innovative applications and practical solutions.</h3>
 
 ## 🌐 Connect with me::
 <div align="left">
