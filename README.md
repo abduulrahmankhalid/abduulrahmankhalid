@@ -10,7 +10,7 @@
  Skilled in transforming data into AI-powered innovative applications and practical solutions.</h3>
  -->
 
-# <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 5%, height = 50> About Me
+# <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 5%, height = 50> **About Me**
 
 
 ```python
@@ -54,7 +54,7 @@ me.say_hi()
 
 ---
 
-# <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=5%, height = 60>Tech Stack
+# <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=5%, height = 75> **Tech Stack**
 
 ## <img src = "https://github.com/user-attachments/assets/f9ffd85f-94e9-47b1-8bcb-b9a921dbe7d7"  height = 75> **AI & Data Science** 
 - **Data Science** :
