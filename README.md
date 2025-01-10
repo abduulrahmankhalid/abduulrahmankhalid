@@ -56,7 +56,7 @@ me.say_hi()
 
 # <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=5%, height = 60>Tech Stack
 
-## <img src = "https://github.com/user-attachments/assets/f9ffd85f-94e9-47b1-8bcb-b9a921dbe7d7"  height = 50> **AI & Data Science** 
+## <img src = "https://github.com/user-attachments/assets/f9ffd85f-94e9-47b1-8bcb-b9a921dbe7d7"  height = 75> **AI & Data Science** 
 - **Data Science** :
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-%230c9cc4.svg?style=flat&logo=seaborn&logoColor=blue) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
@@ -65,7 +65,7 @@ me.say_hi()
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23D00000.svg?style=flat&logo=opencv&logoColor=white)
 - **Deployment** :
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=Flask&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=Docker&logoColor=white)
-## <img src = "https://github.com/user-attachments/assets/8625b7d6-c44e-452e-84d2-717bb00185b5" width=6%> **Software Development**
+## <img src = "https://github.com/user-attachments/assets/8625b7d6-c44e-452e-84d2-717bb00185b5" height = 50> **Software Development**
 - **Web Development** :
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=C-Sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91.svg?style=flat&logo=.net&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
 - **Mobile Development** :
