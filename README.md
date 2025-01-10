@@ -64,7 +64,7 @@ me.say_hi()
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=abduulrahmankhalid&theme=material-palenight&hide_border=true" alt="GitHub Streak Stats"><br>
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/b8903e9e-06a7-48c7-94ba-44ad8549a913" width="400" alt="Additional Image">
+      <img src="https://github.com/user-attachments/assets/b8903e9e-06a7-48c7-94ba-44ad8549a913" width="250" alt="Additional Image">
     </td>
   </tr>
 </table>
