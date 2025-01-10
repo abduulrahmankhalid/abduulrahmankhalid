@@ -20,7 +20,7 @@ class Profile:
 
     def __init__(self):
 
-        self.name = "AbdulRahman Khalid"
+        self.name = 'AbdulRahman Khalid'
 
         self.role = ['Machine Learning Engineer', 'Data Scientist']
 
@@ -29,7 +29,7 @@ class Profile:
 
     def say_hi(self):
 
-        print("Thanks for stopping by!, hope something here catches your eye.")
+        print('Thanks for stopping by!, hope something here catches your eye.')
 
 
 me = Profile()
