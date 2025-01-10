@@ -10,7 +10,7 @@
  Skilled in transforming data into AI-powered innovative applications and practical solutions.</h3>
  -->
 
-# <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 5%, height = 50> About me
+# <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 5%, height = 50> About Me
 
 
 ```python
@@ -38,7 +38,7 @@ me.say_hi()
 ```
 ![sliding-line](https://github.com/user-attachments/assets/5078e31f-c8b3-4289-ab0c-9fe331433c9f)
 
-# <img src="https://github.com/user-attachments/assets/289b3d26-2552-4cce-b183-2f5ab57ee2b6" width="35"><b> Connect with me:: </b>
+# <img src="https://github.com/user-attachments/assets/289b3d26-2552-4cce-b183-2f5ab57ee2b6" width="35"><b> Connect with me </b>
 
 <div align="left">
   <a href="mailto:abduulrahmankhalid@gmail.com" target="_blank">
