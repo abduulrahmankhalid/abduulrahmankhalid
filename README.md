@@ -41,7 +41,7 @@ me.say_hi()
 # <img src="https://github.com/user-attachments/assets/289b3d26-2552-4cce-b183-2f5ab57ee2b6" width="35"><b> Connect with me:: </b>
 
 <div align="left">
-  <a href="abduulrahmankhalid@gmail.com" target="_blank">
+  <a href="mailto:abduulrahmankhalid@gmail.com" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" width="50" height="37" alt="linkedin logo"/>
   </a>
   <a href="https://www.linkedin.com/in/abduulrahmankhalid/" target="_blank">
