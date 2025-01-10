@@ -79,8 +79,13 @@ me.say_hi()
 
 ![sliding-line](https://github.com/user-attachments/assets/5078e31f-c8b3-4289-ab0c-9fe331433c9f)
 
+
+
 <div align="center">
 <!--   <img src="https://visitcount.itsvg.in/api?id=abduulrahmankhalid&icon=8&color=6"  /> -->
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=abduulrahmankhalid&label=Profile%20Views&color=800080&style=flat&logo" alt="abduulrahmankhalid" /> </p>
+  <p align = "center">
+	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+</p>
   <img src="https://github.com/abduulrahmankhalid/abduulrahmankhalid/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark"/>
 </div>
