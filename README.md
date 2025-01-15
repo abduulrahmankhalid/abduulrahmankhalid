@@ -24,8 +24,9 @@ class Profile:
 
         self.role = ['Machine Learning Engineer', 'Data Scientist']
 
-        self.about = ['Computer science graduate with a strong passion for data science and machine learning,
-                      Skilled in transforming data into AI powered innovative applications and practical solutions.']
+        self.about = ['Skilled in advanced data science tools and machine learning frameworks,
+		      with hands-on experience turning complex data into impactful applications.
+		      Combining strong programming foundation and software development expertise.']
 
     def say_hi(self):
 
