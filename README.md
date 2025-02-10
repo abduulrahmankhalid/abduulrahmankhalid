@@ -63,9 +63,9 @@ me.say_hi()
 ![Seaborn](https://img.shields.io/badge/Seaborn-%230c9cc4.svg?style=flat&logo=seaborn&logoColor=blue) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
 - **Machine Learning** :
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23D00000.svg?style=flat&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23D00000.svg?style=flat&logo=opencv&logoColor=white)
 - **Deployment** :
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=Flask&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=Docker&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=Flask&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=Docker&logoColor=white)
 ## <img src = "https://github.com/user-attachments/assets/8625b7d6-c44e-452e-84d2-717bb00185b5" height = 50> **Software Development**
 - **Web Development** :
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=C-Sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91.svg?style=flat&logo=.net&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
