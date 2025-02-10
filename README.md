@@ -24,7 +24,7 @@ class Profile:
 
         self.role = ['Machine Learning Engineer', 'Data Scientist']
 
-        self.about = ['Skilled in advanced data science tools and machine learning frameworks,
+        self.about = ['Skilled in advanced machine learning frameworks and data science tools,
 		      with hands-on experience turning complex data into impactful applications.
 		      Combining strong programming foundation and software development expertise.']
 
