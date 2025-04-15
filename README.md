@@ -98,9 +98,15 @@ me.say_hi()
 
 <div align="center">
 <!--   <img src="https://visitcount.itsvg.in/api?id=abduulrahmankhalid&icon=8&color=6"  /> -->
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=abduulrahmankhalid&label=Profile%20Views&color=800080&style=flat&logo" alt="abduulrahmankhalid" /> </p>
+  <p align="center">
+	  <img src="https://komarev.com/ghpvc/?username=abduulrahmankhalid&label=Profile%20Views&color=800080&style=flat&logo" alt="abduulrahmankhalid" />
+  	  <img src="https://img.shields.io/github/followers/abduulrahmankhalid?label=Followers&style=social" alt="abduulrahmankhalid" />
+	  <img src="https://img.shields.io/github/stars/abduulrahmankhalid?label=Stars" alt="abduulrahmankhalid" />
+  </p>	
+  <h3 style="display: inline-block">Random Quote 👾</h3>	
   <p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">		
 </p>
-  <img src="https://github.com/abduulrahmankhalid/abduulrahmankhalid/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark"/>
+  <h3 style="display: inline-block">Watch a 🐍 Eating my Contributions Graph</h3>
+		<img src="https://github.com/abduulrahmankhalid/abduulrahmankhalid/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark"/> 
 </div>
