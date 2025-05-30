@@ -111,6 +111,9 @@ me.say_hi()
   <h3 style="display: inline-block">Watch a 🐍 Eating my Contributions Graph</h3>
 		<img src="https://github.com/abduulrahmankhalid/abduulrahmankhalid/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark"/> 
 </div>
-
+		
 ![sliding-line](https://github.com/user-attachments/assets/5078e31f-c8b3-4289-ab0c-9fe331433c9f)
+		
+<!-- 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abduulrahmankhalid&theme=github)](https://github.com/abduulrahmankhalid)
+-->
