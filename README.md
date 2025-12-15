@@ -1,7 +1,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF9F00&center=true&vCenter=true&width=450&lines=Hello+There%2C+I'm+AbdulRahman+Khalid.;Aspiring+Computer+Science+Graduate.;Passionate+for+ML+%26+Data+Science." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF9F00&center=true&vCenter=true&width=500&lines=Hello+There%2C+I'm+AbdulRahman+Khalid.;AI+%26+Machine+Learning+Engineer.;Data+Scientist;Building+Production-Ready+AI+Pipelines.;Solving+Complex+Problems+with+Data." alt="Typing SVG" /></a>
 </p>
 
 
@@ -22,11 +22,11 @@ class Profile:
 
         self.name = 'AbdulRahman Khalid'
 
-        self.role = ['Machine Learning Engineer', 'Data Scientist']
+        self.role = ['AI/ML Engineer', 'Data Scientist']
 
-        self.about = ['Skilled in advanced machine learning frameworks and data science tools,
-		      with hands-on experience turning complex data into impactful applications.
-		      Combining strong programming foundation and software development expertise.']
+        self.about = ['AI/ML engineer with practical experience across the full ML lifecycle,
+                       turning complex data into reliable, production-ready solutions,
+                       backed by solid programming and real-world deployment expertise.']
 
     def say_hi(self):
 
@@ -59,16 +59,17 @@ me.say_hi()
 
 ## <img src = "https://github.com/user-attachments/assets/f9ffd85f-94e9-47b1-8bcb-b9a921dbe7d7"  height = 75> **AI & Data Science** 
 - **Data Science** :
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)
 ![Seaborn](https://img.shields.io/badge/Seaborn-%230c9cc4.svg?style=flat&logo=seaborn&logoColor=blue) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
 - **Machine Learning** :
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23D00000.svg?style=flat&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-%23000000?style=flat&logo=langgraph&logoColor=white) 
 - **Deployment** :
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=Flask&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=Docker&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=Flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)  ![Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white) ![Mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=Docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
 ## <img src = "https://github.com/user-attachments/assets/8625b7d6-c44e-452e-84d2-717bb00185b5" height = 50> **Software Development**
 - **Web Development** :
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=C-Sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91.svg?style=flat&logo=.net&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=C-Sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91.svg?style=flat&logo=.net&logoColor=white) ![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)
 - **Mobile Development** :
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=fla&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white)
 - **Source Control** :
