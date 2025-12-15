@@ -1,7 +1,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF9F00&center=true&vCenter=true&width=500&lines=Hello+There%2C+I'm+AbdulRahman+Khalid.;AI+%26+Machine+Learning+Engineer.;Data+Scientist;Building+Production-Ready+AI+Pipelines.;Solving+Complex+Problems+with+Data." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF9F00&center=true&vCenter=true&width=500&lines=Hello+There%2C+I'm+AbdulRahman+Khalid.;AI+%26+Machine+Learning+Engineer.;Data+Scientist,+bridging+data+and+impact.;Building+Production-Ready+AI+Pipelines.;Solving+Complex+Problems+with+Data." alt="Typing SVG" /></a>
 </p>
 
 
